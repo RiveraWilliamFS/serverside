@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "fname": "William",
+        "lname": "Rivera",
+        "email": "wdrivera@student.fullsail.edu",
+        "phone": "386-837-6525",
+        "birthday": "1990-03-12"
+    },
+    {
+        "id": 2,
+        "fname": "Jessica",
+        "lname": "Totman",
+        "email": "jmaetotman@gmail.com",
+        "phone": "407-412-3404",
+        "birthday": "1991-07-22"
+    }
+]
